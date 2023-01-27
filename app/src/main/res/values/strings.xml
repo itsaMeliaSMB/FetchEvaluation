@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fetch Evaluation</string>
+    <string name="unknown_error_message">An unknown error occurred.</string>
+    <string name="empty_list_error_message">No items to display; the list is empty.</string>
+    <string name="re_fetch_list_action">Re-fetch List</string>
+    <string name="toolbar_title">Fetched List</string>
+    <string name="error_icon_description">Error icon</string>
+    <string name="progress_card_label">Fetching the list…</string>
+</resources>

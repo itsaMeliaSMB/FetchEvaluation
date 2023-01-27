@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/refetch_action"
+        android:title="@string/re_fetch_list_action"
+        android:icon="@drawable/refetch_icon"
+        android:iconTint="?attr/colorOnPrimary"
+        app:showAsAction="ifRoom" />
+</menu>

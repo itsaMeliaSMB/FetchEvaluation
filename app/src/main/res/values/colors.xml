@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="fetch_gold">#fba919</color>
+    <color name="fetch_gold_dark">#c37a00</color>
+    <color name="toolbar_purple">#7e57c2</color>
+    <color name="toolbar_purple_dark">#4d2c91</color>
+    <color name="fetch_dark_purple">#300d38</color>
+    <color name="compliment_blue">#1E53A6</color>
+    <color name="secondary_red">#DA165F</color>
+    <color name="secondary_green">#81E317</color>
+</resources>
